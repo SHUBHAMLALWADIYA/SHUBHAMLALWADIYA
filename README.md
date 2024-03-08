@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Shubham Lalwadiya</a></b>
+                <b><a target="_blank" href="">Shubham Lalwadiya</a></b>
         </samp>
 </h3>
 
