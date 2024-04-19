@@ -32,8 +32,9 @@
 ---
 
 ![Image Description]([image_url](https://app.gemoo.com/share/image-annotation/639865299748798464?codeId=DWllz1QbzmgGp&origin=imageurlgenerator))
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+
 </div>
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
