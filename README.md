@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Lalwadiya</h1>
 # 💫 About Me:
+<h3 align="center">lalwadiyashubham123@gmail.com</h3>
 <p align="center" >A passionate full-stack web developer with a background in civil engineering. I'm on a journey to create meaningful and user-friendly applications. My tech toolkit includes HTML, CSS, and JavaScript for building engaging frontends, while React.js adds that extra flair. On the backend, I wield the power of Node.js and Express to handle server logic, and MongoDB to seamlessly manage data.
 
 ⚙️ Currently, I'm diving into Python and sharpening my problem-solving skills with Data Structures and Algorithms. I believe in the elegance of code and continuous learning, and I'm always excited to take on new challenges.
