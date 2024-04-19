@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Lalwadiya</h1>
 # 💫 About Me:
-<h4 align="center" style="color:blue;">Drop-Mail : lalwadiyashubham123@gmail.com</h4>
+<h4 align="center" style="color:blue;">Drop-Mail : <a href="mailto:lalwadiyashubham123@gmail.com">lalwadiyashubham123@gmail.com</a> </h4>
 
 <p align="center" >A passionate full-stack web developer with a background in civil engineering. I'm on a journey to create meaningful and user-friendly applications. My tech toolkit includes HTML, CSS, and JavaScript for building engaging frontends, while React.js adds that extra flair. On the backend, I wield the power of Node.js and Express to handle server logic, and MongoDB to seamlessly manage data.
 
@@ -13,6 +13,7 @@
 📚 Learning: Python | Data Structures and Algorithms</p>
 
 <div align="center">
+<h4 align="center" style="color:blue;">Portfolio : <a href="https://65de01b27a8efc0b1b612094--zippy-kangaroo-5ae67c.netlify.app/"> shubham lalwadiya (Portfolio and Resume)</a></h4>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhamlalwadiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-lalwadiya-402081221) 
