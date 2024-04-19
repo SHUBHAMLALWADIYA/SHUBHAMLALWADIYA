@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Lalwadiya</h1>
 # 💫 About Me:
-<h3 align="center">lalwadiyashubham123@gmail.com</h3>
+<h4 align="center" style="color:blue;">Drop-Mail : lalwadiyashubham123@gmail.com</h4>
+
 <p align="center" >A passionate full-stack web developer with a background in civil engineering. I'm on a journey to create meaningful and user-friendly applications. My tech toolkit includes HTML, CSS, and JavaScript for building engaging frontends, while React.js adds that extra flair. On the backend, I wield the power of Node.js and Express to handle server logic, and MongoDB to seamlessly manage data.
 
 ⚙️ Currently, I'm diving into Python and sharpening my problem-solving skills with Data Structures and Algorithms. I believe in the elegance of code and continuous learning, and I'm always excited to take on new challenges.
@@ -11,6 +12,7 @@
 
 📚 Learning: Python | Data Structures and Algorithms</p>
 
+<div align="center">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhamlalwadiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-lalwadiya-402081221) 
@@ -26,7 +28,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SHUBHAMLALWADIYA&limit=5&theme=darkhub&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SHUBHAMLALWADIYA&icon=7&color=12)](https://visitcount.itsvg.in)
+
+![Image Description]([image_url](https://app.gemoo.com/share/image-annotation/639865299748798464?codeId=DWllz1QbzmgGp&origin=imageurlgenerator))
+
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
