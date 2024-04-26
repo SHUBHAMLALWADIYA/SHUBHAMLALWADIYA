@@ -14,7 +14,7 @@
 
 <div align="center">
 <h4 align="center" style="color:blue;">Drop-Mail : <a href="mailto:lalwadiyashubham123@gmail.com">lalwadiyashubham123@gmail.com</a> </h4>
-<h4 align="center" style="color:blue;">Portfolio : <a href="https://65de01b27a8efc0b1b612094--zippy-kangaroo-5ae67c.netlify.app/"> shubham lalwadiya (Portfolio and Resume)</a></h4>
+<h4 align="center" style="color:blue;">Portfolio : <a href="[https://65de01b27a8efc0b1b612094--zippy-kangaroo-5ae67c.netlify.app/](https://shubhamlalwadiya.github.io/ShubhamLalwadiya_portfolio_2024/)"> shubham lalwadiya (Portfolio and Resume)</a></h4>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhamlalwadiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-lalwadiya-402081221) 
