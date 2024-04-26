@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Lalwadiya</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shubham Lalwadiya</h1>
 <p color="#fbb400" align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Aspiring+Learner;Frontend;Backend;DSA&center=true&width=500&height=60"></a>
 </p>
