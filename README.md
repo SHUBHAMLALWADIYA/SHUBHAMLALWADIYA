@@ -13,7 +13,7 @@
 
 ✨ Tech Stack: HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Git | Postman | Chakra UI | VS Code
 
-📚 Learning: Python | Data Structures and Algorithms</p>
+📚 Learning:  Data Structures and Algorithms </p>
 
 <div align="center">
 <h4 align="center" style="color:blue;">Drop-Mail : <a href="mailto:lalwadiyashubham123@gmail.com">lalwadiyashubham123@gmail.com</a> </h4>
